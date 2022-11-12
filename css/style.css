@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+    font-family: 'Permanent Marker', cursive;
+    background: url("../img/fondo.jpg") ;
+    background-size: cover;
+    text-align: center;
+}
+
+h2{ 
+
+    text-align: center;
+    font-size: 50px;
+    color: azure;
+}
+
+button{
+
+    padding: 15px 40 px;
+    font-size: 22px;
+    background: transparent;
+    border: 3px solid #eaeef1;
+    color: #fafafa;
+    cursor: pointer;
+    transition: .5s;
+    margin: 20px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+button:hover{
+
+    border: 3px solid #D4ECDD;
+    color: rgb(243, 243, 243);
+    border-radius: 30px;
+    background: #345B63;
+
+}
